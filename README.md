@@ -1,1 +1,1 @@
-# MediumClone_Bootstrap
+# Medium Clone
